@@ -26,6 +26,30 @@ TextureImporter:
   - first:
       213: 8153785213593319801
     second: New Piskel (6)_7
+  - first:
+      213: 6545832062493251571
+    second: Ghost Dead_0
+  - first:
+      213: 4910491626524224715
+    second: Ghost Dead_1
+  - first:
+      213: -21268301433101265
+    second: Ghost Dead_2
+  - first:
+      213: -4079368260737097165
+    second: Ghost Dead_3
+  - first:
+      213: 3669086868085693381
+    second: Ghost Dead_4
+  - first:
+      213: 2122374474098818105
+    second: Ghost Dead_5
+  - first:
+      213: -8768157685027050964
+    second: Ghost Dead_6
+  - first:
+      213: -1304951244781077860
+    second: Ghost Dead_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,7 +139,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: New Piskel (6)_0
+      name: Ghost Dead_0
       rect:
         serializedVersion: 2
         x: 0
@@ -129,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0deacf64e7d3fe020800000000000000
-      internalID: 2373183141213679312
+      spriteID: 3f7d54c549777da50800000000000000
+      internalID: 6545832062493251571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (6)_1
+      name: Ghost Dead_1
       rect:
         serializedVersion: 2
         x: 128
@@ -150,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5996f1eb2184e5520800000000000000
-      internalID: 2692668872550476181
+      spriteID: bcca18f0e12952440800000000000000
+      internalID: 4910491626524224715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (6)_2
+      name: Ghost Dead_2
       rect:
         serializedVersion: 2
         x: 256
@@ -171,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cc5fcfba0d9b3590800000000000000
-      internalID: -7693382868939088697
+      spriteID: f24aa10b79074bff0800000000000000
+      internalID: -21268301433101265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (6)_3
+      name: Ghost Dead_3
       rect:
         serializedVersion: 2
         x: 0
@@ -192,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd5bab21f92110850800000000000000
-      internalID: 6341370224737695196
+      spriteID: 33223c62e2c2367c0800000000000000
+      internalID: -4079368260737097165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (6)_4
+      name: Ghost Dead_4
       rect:
         serializedVersion: 2
         x: 128
@@ -213,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdfb4ea65c7047210800000000000000
-      internalID: 1329696334464466907
+      spriteID: 5cb5c4e11173be230800000000000000
+      internalID: 3669086868085693381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (6)_5
+      name: Ghost Dead_5
       rect:
         serializedVersion: 2
         x: 256
@@ -234,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6426be28ea1162c30800000000000000
-      internalID: 4334171132609126982
+      spriteID: 93c3401e650347d10800000000000000
+      internalID: 2122374474098818105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (6)_6
+      name: Ghost Dead_6
       rect:
         serializedVersion: 2
         x: 0
@@ -255,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4648cb161b53672b0800000000000000
-      internalID: -5587219251741293468
+      spriteID: c2ae9598a0f315680800000000000000
+      internalID: -8768157685027050964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New Piskel (6)_7
+      name: Ghost Dead_7
       rect:
         serializedVersion: 2
         x: 128
@@ -276,8 +300,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 979ff0f7370182170800000000000000
-      internalID: 8153785213593319801
+      spriteID: c9abe9db1c1e3ede0800000000000000
+      internalID: -1304951244781077860
       vertices: []
       indices: 
       edges: []

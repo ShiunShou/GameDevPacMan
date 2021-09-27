@@ -1,55 +1,43 @@
 fileFormatVersion: 2
-guid: 3cd7e482b94664f4f8ee6913e30593cf
+guid: 598c2864d17a23e4abfd2f47bdf96afe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6888756438569675735
-    second: New Piskel (1)_0
+      213: 3275028520990625885
+    second: New Piskel (8)_0
   - first:
-      213: 9173839873224666002
-    second: New Piskel (1)_1
+      213: 3150403194116108143
+    second: New Piskel (8)_1
   - first:
-      213: -745645855993587873
-    second: New Piskel (1)_2
+      213: -4072501624859464931
+    second: New Piskel (8)_2
   - first:
-      213: 4123733795721074919
-    second: New Piskel (1)_3
+      213: 2977839672645786193
+    second: New Piskel (8)_3
   - first:
-      213: -1753449832276896209
-    second: New Piskel (1)_4
+      213: -7444346396056899991
+    second: New Piskel (8)_4
   - first:
-      213: 3188600494121364513
-    second: New Piskel (1)_5
+      213: 6989583442678287140
+    second: New Piskel (8)_5
   - first:
-      213: 393433629526434239
-    second: New Piskel (1)_6
+      213: 3637372433287926267
+    second: Bonus score_0
   - first:
-      213: -6999936710424723473
-    second: New Piskel (1)_7
+      213: 9069510359603475829
+    second: Bonus score_1
   - first:
-      213: 1708740268387749842
-    second: Ghost1Normal_0
+      213: 1908413602699502634
+    second: Bonus score_2
   - first:
-      213: 4214294352662442905
-    second: Ghost1Normal_1
+      213: -1900361975743881309
+    second: Bonus score_3
   - first:
-      213: 8419095284775105308
-    second: Ghost1Normal_2
+      213: 461550627920686297
+    second: Bonus score_4
   - first:
-      213: 1612112350170859418
-    second: Ghost1Normal_3
-  - first:
-      213: 938264606287208489
-    second: Ghost1Normal_4
-  - first:
-      213: 4964366702486048808
-    second: Ghost1Normal_5
-  - first:
-      213: 1674135376327288600
-    second: Ghost1Normal_6
-  - first:
-      213: -2425903044164230553
-    second: Ghost1Normal_7
+      213: -9195642731712340470
+    second: Bonus score_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -139,70 +127,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghost1Normal_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2df48a6883aa6b710800000000000000
-      internalID: 1708740268387749842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1Normal_1
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 993316da26e2c7a30800000000000000
-      internalID: 4214294352662442905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1Normal_2
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c13bf232e82a6d470800000000000000
-      internalID: 8419095284775105308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost1Normal_3
+      name: Bonus score_0
       rect:
         serializedVersion: 2
         x: 0
@@ -216,14 +141,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9744f124af5f5610800000000000000
-      internalID: 1612112350170859418
+      spriteID: bf1dce9d4fa8a7230800000000000000
+      internalID: 3637372433287926267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1Normal_4
+      name: Bonus score_1
       rect:
         serializedVersion: 2
         x: 128
@@ -237,14 +162,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 920221330b2650d00800000000000000
-      internalID: 938264606287208489
+      spriteID: 575f3e6ae9f5ddd70800000000000000
+      internalID: 9069510359603475829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1Normal_5
+      name: Bonus score_2
       rect:
         serializedVersion: 2
         x: 256
@@ -258,14 +183,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 820557ca639f4e440800000000000000
-      internalID: 4964366702486048808
+      spriteID: a246d697f0c0c7a10800000000000000
+      internalID: 1908413602699502634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1Normal_6
+      name: Bonus score_3
       rect:
         serializedVersion: 2
         x: 0
@@ -279,14 +204,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81727eb3149bb3710800000000000000
-      internalID: 1674135376327288600
+      spriteID: 3af50230ade80a5e0800000000000000
+      internalID: -1900361975743881309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost1Normal_7
+      name: Bonus score_4
       rect:
         serializedVersion: 2
         x: 128
@@ -300,8 +225,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7626d09c806755ed0800000000000000
-      internalID: -2425903044164230553
+      spriteID: 9dc2217c9d1c76600800000000000000
+      internalID: 461550627920686297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus score_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e12e6f7a3826080800000000000000
+      internalID: -9195642731712340470
       vertices: []
       indices: 
       edges: []
